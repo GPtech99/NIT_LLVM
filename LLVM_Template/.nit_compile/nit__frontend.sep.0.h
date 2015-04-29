@@ -1,0 +1,12 @@
+#include "nit.common.h"
+extern const int COLOR_nit__frontend__ToolContext___dummy;
+extern const int COLOR_nit__phase__ToolContext__phases;
+extern const int COLOR_nit__modelize_class__ToolContext__modelize_class_phase;
+extern const int COLOR_nit__no_warning__ToolContext__no_warning_phase;
+extern const int COLOR_poset__POSet__add_edge;
+extern const int COLOR_nit__simple_misc_analysis__ToolContext__simple_misc_analysis_phase;
+extern const int COLOR_nit__modelize_property__ToolContext__modelize_property_phase;
+extern const int COLOR_nit__scope__ToolContext__scope_phase;
+extern const int COLOR_nit__literal__ToolContext__literal_phase;
+extern const int COLOR_nit__serialization_phase__ToolContext__serialization_phase_pre_model;
+extern const int COLOR_nit__parallelization_phase__ToolContext__parallelization_phase;

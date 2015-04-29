@@ -1,0 +1,5 @@
+#include "nit.common.h"
+extern const int COLOR_standard__gc__FinalizableOnce___finalized;
+extern const int COLOR_standard__gc__FinalizableOnce__finalized;
+extern const int COLOR_standard__gc__FinalizableOnce__finalize_once;
+extern const int COLOR_standard__gc__FinalizableOnce__finalized_61d;
